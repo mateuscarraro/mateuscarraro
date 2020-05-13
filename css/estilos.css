@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://r1.ilikewallpaper.net/iphone-8-wallpapers/download/30910/Blue-Soft-Pastel-Gradation-Blur-iphone-8-wallpaper-ilikewallpaper_com.jpg);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 126vh;
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: Italic;
+  }
